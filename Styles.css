@@ -1,0 +1,59 @@
+h1{color: antiquewhite;text-align: center;font-family: cursive;font-size: 55px  }
+  h2{color: silver;text-align: center;text-decoration: overline;font-family:fantasy}
+  div{color: lightskyblue;
+    width: 270px;
+    border:15px goldenrod;
+    padding: 50px;
+  }
+  button{display:inline-block; background-color: maroon;text-align: center;font-size: 20px;padding: 10px; -webkit-transition: all 0.5s;-moz-transition: all 0.5s;cursor: pointer;margin: 5px;text-decoration: box-shadow: beige;font-size:20px;font-family: times;
+  }
+  p{font-family: cursive; color: slategray;font-size: 20px}
+  button1{background-color: lightskyblue;
+    cursor: pointer ;text-decoration:box- box-shadow;
+    padding: 10px;
+    text-decoration: box-shadow;
+    -webkit-transition: all 0.5;
+    display: inline-block;-moz-transition: all 0.5s;margin: 5px;
+  }
+  #section1{height:600px;background-image: url('item-3.jpeg');
+background-size:cover;}
+  #section2{height: 600px;
+    background-image: url('item-2.jpeg');
+background-size:cover;
+  }h3{color: silver;text-align: center;text-decoration: overline;font-family:cursive;font-size: 25px;}
+  h4{font-family: "lucida console","courier new","monospace";color: seagreen}
+  #section4{height: 900px;
+    background-color: black;
+    text-align: center;
+    color: seashell;
+    background-size:cover;
+  }
+  div ul{
+    display: center;
+    justify-content: center;
+    
+    
+  }
+  div ul li{
+    list-style: none;
+    margin-left: 50px;
+    margin-right: 60px;
+    margin-top: 10px;
+    
+  }
+  div ul li:hover{
+    cursor: pointer;
+  }
+  div ul li i {
+    font-size: 50px;
+    color:bisque;
+  }
+    #section5{height: 300px;
+    background-color: skyblue;
+    text-align: center;
+    color: purple;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+
